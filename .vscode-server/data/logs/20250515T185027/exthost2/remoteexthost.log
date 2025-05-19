@@ -1,0 +1,20 @@
+2025-05-15 19:27:50.565 [info] Extension host with pid 7059 started
+2025-05-15 19:27:50.568 [info] Lock '/home/mmontanez/.vscode-server/data/User/workspaceStorage/74771a0c50daafcc80ab1113b696b3cd/vscode.lock': Lock acquired.
+2025-05-15 19:27:50.660 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-15 19:27:50.662 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-05-15 19:27:50.806 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-15 19:27:50.806 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-15 19:27:50.807 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-15 19:27:51.571 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-15 19:27:51.615 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-15 19:27:51.615 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-15 19:27:51.881 [info] Eager extensions activated
+2025-05-15 19:27:51.882 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-15 19:27:51.883 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-15 19:28:01.577 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2025-05-15 19:28:15.912 [info] ExtensionService#_doActivateExtension pranaygp.vscode-css-peek, startup: false, activationEvent: 'workspaceContains:**/*.css,**/*.scss,**/*.sass,**/*.less'
+2025-05-15 19:28:17.627 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-05-15 19:28:25.987 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-05-15 19:31:01.574 [info] Extension host terminating: received terminate message from renderer
+2025-05-15 19:31:01.575 [info] Lock '/home/mmontanez/.vscode-server/data/User/workspaceStorage/74771a0c50daafcc80ab1113b696b3cd/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-05-15 19:31:01.647 [info] Extension host with pid 7059 exiting with code 0

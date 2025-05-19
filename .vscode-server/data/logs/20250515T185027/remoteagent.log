@@ -1,0 +1,119 @@
+2025-05-15 18:50:27.262 [info] 
+
+
+
+
+2025-05-15 18:50:27.270 [info] Extension host agent started.
+2025-05-15 18:50:27.294 [info] Started initializing default profile extensions in extensions installation folder. file:///home/mmontanez/.vscode-server/extensions
+2025-05-15 18:50:27.315 [info] ComputeTargetPlatform: linux-x64
+2025-05-15 18:50:27.322 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/mmontanez/.vscode-server/extensions
+2025-05-15 18:50:27.489 [info] [127.0.0.1][b01654fb][ManagementConnection] New connection established.
+2025-05-15 18:50:27.769 [info] [127.0.0.1][970ef3c2][ExtensionHostConnection] New connection established.
+2025-05-15 18:50:27.778 [info] [127.0.0.1][970ef3c2][ExtensionHostConnection] <268> Launched Extension Host Process.
+2025-05-15 18:50:28.019 [error] #1: https://main.vscode-cdn.net/extensions/marketplace.json - error GET AggregateError [ETIMEDOUT]: 
+2025-05-15 18:50:30.188 [info] ComputeTargetPlatform: linux-x64
+2025-05-15 19:27:31.650 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2025-05-15 19:27:31.769 [info] Installing extension: ms-ceintl.vscode-language-pack-es {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"isApplicationScoped":true,"profileLocation":{"$mid":1,"fsPath":"/home/mmontanez/.vscode-server/extensions/extensions.json","external":"file:///home/mmontanez/.vscode-server/extensions/extensions.json","path":"/home/mmontanez/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.1","date":"2025-05-09T15:43:50.040Z"}}
+2025-05-15 19:27:35.009 [info] Extension signature verification result for ms-ceintl.vscode-language-pack-es: Success. Internal Code: 0. Executed: true. Duration: 1735ms.
+2025-05-15 19:27:35.114 [info] Extracted extension to file:///home/mmontanez/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.100.2025051409: ms-ceintl.vscode-language-pack-es
+2025-05-15 19:27:35.125 [info] Renamed to /home/mmontanez/.vscode-server/extensions/ms-ceintl.vscode-language-pack-es-1.100.2025051409
+2025-05-15 19:27:35.136 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2025-05-15 19:27:35.157 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es file:///home/mmontanez/.vscode-server/extensions/extensions.json
+2025-05-15 19:27:47.576 [info] [127.0.0.1][b01654fb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-15 19:27:47.674 [info] [127.0.0.1][970ef3c2][ExtensionHostConnection] <268> Extension Host Process exited with code: 0, signal: null.
+2025-05-15 19:27:49.566 [info] [127.0.0.1][be4fb4bb][ManagementConnection] New connection established.
+2025-05-15 19:27:49.780 [info] [127.0.0.1][c84c6675][ExtensionHostConnection] New connection established.
+2025-05-15 19:27:49.787 [info] [127.0.0.1][c84c6675][ExtensionHostConnection] <7059> Launched Extension Host Process.
+2025-05-15 19:27:57.376 [info] Getting Manifest... streetsidesoftware.code-spell-checker
+2025-05-15 19:27:58.006 [info] Installing extension: streetsidesoftware.code-spell-checker {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/mmontanez/.vscode-server/extensions/extensions.json","external":"file:///home/mmontanez/.vscode-server/extensions/extensions.json","path":"/home/mmontanez/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.1","date":"2025-05-09T15:43:50.040Z"}}
+2025-05-15 19:28:00.837 [info] Extension signature verification result for streetsidesoftware.code-spell-checker: Success. Internal Code: 0. Executed: true. Duration: 860ms.
+2025-05-15 19:28:01.206 [info] Extracted extension to file:///home/mmontanez/.vscode-server/extensions/streetsidesoftware.code-spell-checker-4.0.47: streetsidesoftware.code-spell-checker
+2025-05-15 19:28:01.244 [info] Renamed to /home/mmontanez/.vscode-server/extensions/streetsidesoftware.code-spell-checker-4.0.47
+2025-05-15 19:28:01.256 [info] Extension installed successfully: streetsidesoftware.code-spell-checker file:///home/mmontanez/.vscode-server/extensions/extensions.json
+2025-05-15 19:28:06.708 [info] Getting Manifest... pranaygp.vscode-css-peek
+2025-05-15 19:28:07.270 [info] Installing extension: pranaygp.vscode-css-peek {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/mmontanez/.vscode-server/extensions/extensions.json","external":"file:///home/mmontanez/.vscode-server/extensions/extensions.json","path":"/home/mmontanez/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.1","date":"2025-05-09T15:43:50.040Z"}}
+2025-05-15 19:28:10.931 [info] Getting Manifest... dbaeumer.vscode-eslint
+2025-05-15 19:28:13.418 [info] Extension signature verification result for pranaygp.vscode-css-peek: Success. Internal Code: 0. Executed: true. Duration: 574ms.
+2025-05-15 19:28:15.299 [info] Extracted extension to file:///home/mmontanez/.vscode-server/extensions/pranaygp.vscode-css-peek-4.4.3: pranaygp.vscode-css-peek
+2025-05-15 19:28:15.429 [info] Installing extension: dbaeumer.vscode-eslint {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/mmontanez/.vscode-server/extensions/extensions.json","external":"file:///home/mmontanez/.vscode-server/extensions/extensions.json","path":"/home/mmontanez/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.1","date":"2025-05-09T15:43:50.040Z"}}
+2025-05-15 19:28:15.574 [info] Renamed to /home/mmontanez/.vscode-server/extensions/pranaygp.vscode-css-peek-4.4.3
+2025-05-15 19:28:15.590 [info] Extension installed successfully: pranaygp.vscode-css-peek file:///home/mmontanez/.vscode-server/extensions/extensions.json
+2025-05-15 19:28:15.591 [info] Getting Manifest... ritwickdey.liveserver
+2025-05-15 19:28:15.788 [info] Installing extension: ritwickdey.liveserver {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/mmontanez/.vscode-server/extensions/extensions.json","external":"file:///home/mmontanez/.vscode-server/extensions/extensions.json","path":"/home/mmontanez/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.1","date":"2025-05-09T15:43:50.040Z"}}
+2025-05-15 19:28:17.318 [info] Extension signature verification result for dbaeumer.vscode-eslint: Success. Internal Code: 0. Executed: true. Duration: 621ms.
+2025-05-15 19:28:17.341 [info] Extracted extension to file:///home/mmontanez/.vscode-server/extensions/dbaeumer.vscode-eslint-3.0.10: dbaeumer.vscode-eslint
+2025-05-15 19:28:17.349 [info] Renamed to /home/mmontanez/.vscode-server/extensions/dbaeumer.vscode-eslint-3.0.10
+2025-05-15 19:28:17.362 [info] Extension installed successfully: dbaeumer.vscode-eslint file:///home/mmontanez/.vscode-server/extensions/extensions.json
+2025-05-15 19:28:20.750 [info] Extension signature verification result for ritwickdey.liveserver: Success. Internal Code: 0. Executed: true. Duration: 600ms.
+2025-05-15 19:28:21.509 [info] Getting Manifest... tgreen7.vs-code-node-require
+2025-05-15 19:28:22.304 [info] Installing extension: tgreen7.vs-code-node-require {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/mmontanez/.vscode-server/extensions/extensions.json","external":"file:///home/mmontanez/.vscode-server/extensions/extensions.json","path":"/home/mmontanez/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.1","date":"2025-05-09T15:43:50.040Z"}}
+2025-05-15 19:28:24.411 [info] Extracted extension to file:///home/mmontanez/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2025-05-15 19:28:25.717 [info] Renamed to /home/mmontanez/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2025-05-15 19:28:25.747 [info] Extension installed successfully: ritwickdey.liveserver file:///home/mmontanez/.vscode-server/extensions/extensions.json
+2025-05-15 19:28:27.902 [info] Getting Manifest... ms-python.vscode-pylance
+2025-05-15 19:28:29.159 [info] Installing extension: ms-python.vscode-pylance {"installPreReleaseVersion":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/mmontanez/.vscode-server/extensions/extensions.json","external":"file:///home/mmontanez/.vscode-server/extensions/extensions.json","path":"/home/mmontanez/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.1","date":"2025-05-09T15:43:50.040Z"}}
+2025-05-15 19:28:29.589 [error] #29: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST AggregateError [ETIMEDOUT]: 
+2025-05-15 19:28:29.591 [error] #30: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST AggregateError [ETIMEDOUT]: 
+2025-05-15 19:28:29.591 [error] Error while preparing to install dependencies and extension packs of the extension: ms-python.vscode-pylance
+2025-05-15 19:28:31.461 [error] #31: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST AggregateError [ETIMEDOUT]: 
+2025-05-15 19:28:33.103 [info] Extension signature verification result for tgreen7.vs-code-node-require: Success. Internal Code: 0. Executed: true. Duration: 587ms.
+2025-05-15 19:28:34.144 [info] Extracted extension to file:///home/mmontanez/.vscode-server/extensions/tgreen7.vs-code-node-require-1.10.2: tgreen7.vs-code-node-require
+2025-05-15 19:28:34.218 [info] Renamed to /home/mmontanez/.vscode-server/extensions/tgreen7.vs-code-node-require-1.10.2
+2025-05-15 19:28:34.230 [info] Extension installed successfully: tgreen7.vs-code-node-require file:///home/mmontanez/.vscode-server/extensions/extensions.json
+2025-05-15 19:28:40.081 [info] Downloaded extension to file:///home/mmontanez/.vscode-server/data/CachedExtensionVSIXs/ce24e112-4e74-4055-9f15-c4a7b541ea8c
+2025-05-15 19:28:40.922 [info] Installing extension: ms-python.vscode-pylance {"installPreReleaseVersion":false,"donotVerifySignature":false,"donotIncludePackAndDependencies":true,"keepExisting":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/mmontanez/.vscode-server/extensions/extensions.json","external":"file:///home/mmontanez/.vscode-server/extensions/extensions.json","path":"/home/mmontanez/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.1","date":"2025-05-09T15:43:50.040Z"}}
+2025-05-15 19:28:40.924 [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+2025-05-15 19:28:45.808 [info] Extracted extension to file:///home/mmontanez/.vscode-server/extensions/ms-python.vscode-pylance-2025.5.1: ms-python.vscode-pylance
+2025-05-15 19:28:46.252 [info] Renamed to /home/mmontanez/.vscode-server/extensions/ms-python.vscode-pylance-2025.5.1
+2025-05-15 19:28:46.271 [info] Extension installed successfully: ms-python.vscode-pylance file:///home/mmontanez/.vscode-server/extensions/extensions.json
+2025-05-15 19:28:51.761 [info] Downloaded extension to file:///home/mmontanez/.vscode-server/data/CachedExtensionVSIXs/0b1aa85b-aa2b-4d65-a3f8-0f9a081457d2
+2025-05-15 19:28:51.770 [info] Installing extension: ms-python.python {"installPreReleaseVersion":false,"donotVerifySignature":false,"donotIncludePackAndDependencies":true,"keepExisting":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/mmontanez/.vscode-server/extensions/extensions.json","external":"file:///home/mmontanez/.vscode-server/extensions/extensions.json","path":"/home/mmontanez/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.1","date":"2025-05-09T15:43:50.040Z"}}
+2025-05-15 19:28:51.772 [info] Installing the extension without checking dependencies and pack ms-python.python
+2025-05-15 19:28:53.553 [info] Extracted extension to file:///home/mmontanez/.vscode-server/extensions/ms-python.python-2025.6.1: ms-python.python
+2025-05-15 19:28:53.692 [info] Renamed to /home/mmontanez/.vscode-server/extensions/ms-python.python-2025.6.1
+2025-05-15 19:28:53.709 [info] Extension installed successfully: ms-python.python file:///home/mmontanez/.vscode-server/extensions/extensions.json
+2025-05-15 19:28:54.028 [error] #37: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST AggregateError [ETIMEDOUT]: 
+2025-05-15 19:29:03.353 [info] Downloaded extension to file:///home/mmontanez/.vscode-server/data/CachedExtensionVSIXs/d063da9a-8630-40b4-b9cf-af55cd8aa121
+2025-05-15 19:29:03.357 [info] Installing extension: ms-python.debugpy {"installPreReleaseVersion":false,"donotVerifySignature":false,"donotIncludePackAndDependencies":true,"keepExisting":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/mmontanez/.vscode-server/extensions/extensions.json","external":"file:///home/mmontanez/.vscode-server/extensions/extensions.json","path":"/home/mmontanez/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.1","date":"2025-05-09T15:43:50.040Z"}}
+2025-05-15 19:29:03.357 [info] Installing the extension without checking dependencies and pack ms-python.debugpy
+2025-05-15 19:29:03.875 [info] Extracted extension to file:///home/mmontanez/.vscode-server/extensions/ms-python.debugpy-2025.8.0: ms-python.debugpy
+2025-05-15 19:29:03.897 [info] Renamed to /home/mmontanez/.vscode-server/extensions/ms-python.debugpy-2025.8.0
+2025-05-15 19:29:03.935 [info] Extension installed successfully: ms-python.debugpy file:///home/mmontanez/.vscode-server/extensions/extensions.json
+2025-05-15 19:29:04.681 [info] Downloaded extension to file:///home/mmontanez/.vscode-server/data/CachedExtensionVSIXs/59aa86b1-1f74-4e45-9446-daccb55d28a7
+2025-05-15 19:29:04.685 [info] Installing extension: ms-python.debugpy {"installPreReleaseVersion":false,"donotVerifySignature":false,"donotIncludePackAndDependencies":true,"keepExisting":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/mmontanez/.vscode-server/extensions/extensions.json","external":"file:///home/mmontanez/.vscode-server/extensions/extensions.json","path":"/home/mmontanez/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.1","date":"2025-05-09T15:43:50.040Z"}}
+2025-05-15 19:29:04.685 [info] Installing the extension without checking dependencies and pack ms-python.debugpy
+2025-05-15 19:29:04.695 [info] Deleted existing extension from disk ms-python.debugpy /home/mmontanez/.vscode-server/extensions/ms-python.debugpy-2025.8.0
+2025-05-15 19:29:05.212 [info] Extracted extension to file:///home/mmontanez/.vscode-server/extensions/ms-python.debugpy-2025.8.0: ms-python.debugpy
+2025-05-15 19:29:05.237 [info] Renamed to /home/mmontanez/.vscode-server/extensions/ms-python.debugpy-2025.8.0
+2025-05-15 19:29:05.253 [info] Extension installed successfully: ms-python.debugpy file:///home/mmontanez/.vscode-server/extensions/extensions.json
+2025-05-15 19:29:16.910 [info] Downloaded extension to file:///home/mmontanez/.vscode-server/data/CachedExtensionVSIXs/89a96459-ca14-4ca9-a726-6579b66b2fef
+2025-05-15 19:29:16.915 [info] Installing extension: ms-python.python {"installPreReleaseVersion":false,"donotVerifySignature":false,"donotIncludePackAndDependencies":true,"keepExisting":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/mmontanez/.vscode-server/extensions/extensions.json","external":"file:///home/mmontanez/.vscode-server/extensions/extensions.json","path":"/home/mmontanez/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.1","date":"2025-05-09T15:43:50.040Z"}}
+2025-05-15 19:29:16.916 [info] Installing the extension without checking dependencies and pack ms-python.python
+2025-05-15 19:29:16.933 [info] Deleted existing extension from disk ms-python.python /home/mmontanez/.vscode-server/extensions/ms-python.python-2025.6.1
+2025-05-15 19:29:18.715 [info] Downloaded extension to file:///home/mmontanez/.vscode-server/data/CachedExtensionVSIXs/bf32e803-f2b5-4258-a9f2-416d946b1d84
+2025-05-15 19:29:18.719 [info] Installing extension: ms-python.python {"installPreReleaseVersion":false,"donotVerifySignature":false,"donotIncludePackAndDependencies":true,"keepExisting":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/mmontanez/.vscode-server/extensions/extensions.json","external":"file:///home/mmontanez/.vscode-server/extensions/extensions.json","path":"/home/mmontanez/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.1","date":"2025-05-09T15:43:50.040Z"}}
+2025-05-15 19:29:18.719 [info] Installing the extension without checking dependencies and pack ms-python.python
+2025-05-15 19:29:18.734 [error] Error while installing the extension ms-python.python Please restart VS Code before reinstalling Python. file:///home/mmontanez/.vscode-server/extensions/extensions.json
+2025-05-15 19:29:18.982 [info] Extracted extension to file:///home/mmontanez/.vscode-server/extensions/ms-python.python-2025.6.1: ms-python.python
+2025-05-15 19:29:19.154 [info] Renamed to /home/mmontanez/.vscode-server/extensions/ms-python.python-2025.6.1
+2025-05-15 19:29:19.192 [info] Extension installed successfully: ms-python.python file:///home/mmontanez/.vscode-server/extensions/extensions.json
+2025-05-15 19:29:48.583 [info] Downloaded extension to file:///home/mmontanez/.vscode-server/data/CachedExtensionVSIXs/2d24cfc0-1820-46f8-bb4a-0fb2934ba960
+2025-05-15 19:29:49.481 [info] Installing extension: ms-python.vscode-pylance {"installPreReleaseVersion":false,"donotVerifySignature":false,"donotIncludePackAndDependencies":true,"keepExisting":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/mmontanez/.vscode-server/extensions/extensions.json","external":"file:///home/mmontanez/.vscode-server/extensions/extensions.json","path":"/home/mmontanez/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.1","date":"2025-05-09T15:43:50.040Z"}}
+2025-05-15 19:29:49.482 [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+2025-05-15 19:29:49.501 [info] Deleted existing extension from disk ms-python.vscode-pylance /home/mmontanez/.vscode-server/extensions/ms-python.vscode-pylance-2025.5.1
+2025-05-15 19:29:52.573 [info] Downloaded extension to file:///home/mmontanez/.vscode-server/data/CachedExtensionVSIXs/2cbf9cb6-f7bb-4aba-893b-e78e1aa136e2
+2025-05-15 19:29:53.707 [info] Installing extension: ms-python.vscode-pylance {"installPreReleaseVersion":false,"donotVerifySignature":false,"donotIncludePackAndDependencies":true,"keepExisting":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/mmontanez/.vscode-server/extensions/extensions.json","external":"file:///home/mmontanez/.vscode-server/extensions/extensions.json","path":"/home/mmontanez/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.1","date":"2025-05-09T15:43:50.040Z"}}
+2025-05-15 19:29:53.708 [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+2025-05-15 19:29:53.723 [error] Error while installing the extension ms-python.vscode-pylance Please restart VS Code before reinstalling Pylance. file:///home/mmontanez/.vscode-server/extensions/extensions.json
+2025-05-15 19:29:55.308 [info] Extracted extension to file:///home/mmontanez/.vscode-server/extensions/ms-python.vscode-pylance-2025.5.1: ms-python.vscode-pylance
+2025-05-15 19:29:55.782 [info] Renamed to /home/mmontanez/.vscode-server/extensions/ms-python.vscode-pylance-2025.5.1
+2025-05-15 19:29:55.812 [info] Extension installed successfully: ms-python.vscode-pylance file:///home/mmontanez/.vscode-server/extensions/extensions.json
+2025-05-15 19:30:02.588 [info] Downloaded extension to file:///home/mmontanez/.vscode-server/data/CachedExtensionVSIXs/131cfcd7-fdc9-48bd-9e37-51bf4b86444f
+2025-05-15 19:30:02.593 [info] Installing extension: ms-python.debugpy {"installPreReleaseVersion":false,"donotVerifySignature":false,"donotIncludePackAndDependencies":true,"keepExisting":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/mmontanez/.vscode-server/extensions/extensions.json","external":"file:///home/mmontanez/.vscode-server/extensions/extensions.json","path":"/home/mmontanez/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.100.1","date":"2025-05-09T15:43:50.040Z"}}
+2025-05-15 19:30:02.594 [info] Installing the extension without checking dependencies and pack ms-python.debugpy
+2025-05-15 19:30:02.607 [info] Deleted existing extension from disk ms-python.debugpy /home/mmontanez/.vscode-server/extensions/ms-python.debugpy-2025.8.0
+2025-05-15 19:30:03.129 [info] Extracted extension to file:///home/mmontanez/.vscode-server/extensions/ms-python.debugpy-2025.8.0: ms-python.debugpy
+2025-05-15 19:30:03.155 [info] Renamed to /home/mmontanez/.vscode-server/extensions/ms-python.debugpy-2025.8.0
+2025-05-15 19:30:03.172 [info] Extension installed successfully: ms-python.debugpy file:///home/mmontanez/.vscode-server/extensions/extensions.json
+2025-05-15 19:31:01.581 [info] [127.0.0.1][be4fb4bb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-15 19:31:01.667 [info] [127.0.0.1][c84c6675][ExtensionHostConnection] <7059> Extension Host Process exited with code: 0, signal: null.
